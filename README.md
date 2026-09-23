@@ -1,5 +1,5 @@
 # 8-Bit Single-Cycle RISC-Style Processor
-## Overview
+### Overview
 This repository features the complete Verilog HDL implementation of an 8-bit single-cycle processor, developed for the **CO224: Computer Architecture** course at the Department of Computer Engineering, University of Peradeniya. 
 The project outlines a bottom-up hardware design methodology—transitioning from discrete digital building blocks (ALU, Register File) to full datapath integration, instruction decoding, program counter flow control, and extended ISA execution.
 Development was conducted modularly across distinct milestones, with dedicated test suites and waveform analyses validating each architectural stage.
